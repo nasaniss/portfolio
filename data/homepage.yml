@@ -1,0 +1,151 @@
+# banner
+banner:
+  title : "Привет, меня зовут <br> Настя и я <br> UX-Researcher"
+
+# about
+about:
+  enable : true
+  content : "Если вы оказались на этой страничке, значит вас заинтересовало данное портфолио. Меня зовут Настя, я исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее. Помимо хардов и софтов использую в работе принцип «нормально делай, нормально будет»"
+  button:
+    enable : true
+    label : "Узнать больше"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Методики с которыми я работаю"
+  item:
+    - title : "Customer development"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Moderated UT"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "Clickstream analysis"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "A/B testing"
+      progress : "70%"
+      color : "#ffbcaa"
+    
+    - title : "LJM/CJM"
+      progress : "50%"
+      color : "#ffcaaa"
+
+    - title : "Hallway testing"
+      progress : "30%"
+      color : "#ffadaa"
+
+    - title : "JTBD"
+      progress : "100%"
+      color : "#fddcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Опыт Работы"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "UX-Researcher"
+      company : "Center-Game"
+      url: "https://center-game.com/"
+      duration : "Feb 2022 - present"
+      job: "http://localhost:1313/portfolio/blog/post-1/"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Ведущий специалист по исследованиям"
+      company : "АНО «Диалог Регионы»"
+      url: "https://dialog.info/"
+      duration : "Nov 2020 - Feb 2022"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Младший исследователь"
+      company : "NGO Stellit"
+      url: "https://example.com"
+      duration : "Sep 2020 - Feb 2021"
+
+    - logo : "images/experience/icon-1.png"
+      title : "Интервьюер-транскрайбер"
+      company : "Advantage Group"
+      url: "https://www.advantagegroup.com"
+      duration : "Mar 2020 - Aug 2020"
+
+# education
+education:
+  enable : true
+  title : "Образование"
+  item:
+    - title : "Магистр Социологии"
+      track : "Кафедра прикладной и отраслевой социологии"
+      year : "2018 - 2020"
+      academy : "Санкт-Петербургский государственный университет"
+      url : "https://soc.spbu.ru/fakultet/kafedry.html"
+      
+    - title : "Бакалавр Социологии"
+      year : "2014 - 2018"
+      track : "Кафедра социологии молодежи и молодежной политики"
+      academy : "Санкт-Петербургский государственный университет"
+      url : "https://soc.spbu.ru/fakultet/kafedry.html"
+      
+    - title : "Master of Sociology"
+      year : "2020"
+      track : "Exchange Student"
+      academy : "Charles University in Prague"
+      url : "https://cuni.cz/uken-1.html"
+
+# service
+service:
+  enable : true
+  title : "Услуги"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 3
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial TODO: Add some reviews from collegues and customers
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
