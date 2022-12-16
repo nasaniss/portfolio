@@ -1,0 +1,20 @@
+########################
+# MULTILANGUAGE SUPPORT
+########################
+[languages]
+
+[languages.ru]
+title = "Анастасия Анисимова"
+author = "Анастасия Анисимова"
+home = "Главная"
+contentDir = "content/ru"
+languageName = "Russian"
+weight = 1
+
+[languages.en]
+title = "Anastasia Anisimova"
+author = "Anastasia Anisimova"
+home = "Home"
+contentDir = "content/en"
+languageName = "English"
+weight = 2

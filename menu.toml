@@ -1,0 +1,27 @@
+########################
+# MENU LIST
+########################
+[[menu.main]]
+URL = "about/"
+name = "Обо мне"
+weight = 1
+
+[[menu.main]]
+URL = "blog/"
+name = "Блог"
+weight = 2
+
+[[menu.main]]
+URL = "portfolio/"
+name = "Портфолио"
+weight = 3
+
+[[menu.main]]
+URL = "contact/"
+name = "Контакты"
+weight = 4
+
+[[menu.main]]
+URL = "job/"
+name = "Опыт работы"
+weight = 5

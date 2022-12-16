@@ -1,0 +1,84 @@
+########################
+# THEME PARAMETERS
+########################
+[params]
+# TODO: Place logo here
+logo = ""
+theme_color = "#5656e8"
+description = "This is meta description"
+copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+
+########################
+# ANALYTICS
+########################
+google_analytics_id = "G-70W04GC950"
+baidu_site_verification = ""
+baidu_analytics_id = ""
+
+########################
+# CONTACT INFO
+########################
+phone = "+7 999 999 9999"
+email = "aanjustbusiness@gmail.com"
+address = "125/A, CA Commercial Area, California, USA"
+
+########################
+# COOKIES
+########################
+[params.cookies]
+enable = true
+expire_days = 2
+
+########################
+# PRELOADER
+########################
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+
+########################
+# CONTACT FOEM ACTION
+########################
+[params.contact]
+enable = true
+form_action = "https://formspree.io/f/mwkjekrn" # contact form works with : https://formspree.io
+
+############################
+# MAP IN CONTACTS SECTION
+############################
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+########################
+# CSS PLUGINS
+########################
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+########################
+# JAVASCRIPT PLUGINS
+########################
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
