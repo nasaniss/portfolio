@@ -5,7 +5,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-3.png"
 client: "Center-Game"
 project_url : " "
-categories: ["Landing page"]
+categories: ["Landing pages"]
 description: "This is meta description."
 draft: false
 ---

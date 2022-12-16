@@ -1,7 +1,7 @@
 # about
 about:
   enable : true
-  content : "Исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее.  Помимо хардов и софтов использую в работе принцип «нормально делай, нормально будет»"
+  content : "Исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее. Работаю по принципу «нормально делай, нормально будет»"
   button:
     enable : true
     label : "Узнать больше"
@@ -10,7 +10,7 @@ about:
 # skill
 skill:
   enable : true
-  title : "С какими методиками я работаю?"
+  title : "С какими методиками работала?"
   item:
     - title : "Customer development"
       progress : "100%"
@@ -18,7 +18,7 @@ skill:
       
     - title : "Moderated usability testing"
       progress : "100%"
-      color : "#9473e6"
+      color : "#bdaae3"
       
     - title : "Clickstream analysis"
       progress : "100%"
@@ -42,7 +42,7 @@ skill:
 
     - title : "Customer Feedback"
       progress : "100%"
-      color : "#ffbcaa"
+      color : "#c1d9b4"
 
 # experience
 experience:
