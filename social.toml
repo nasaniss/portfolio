@@ -1,0 +1,10 @@
+########################
+# LEFT SIDE HERO SOCIAL
+########################
+[[params.social]]
+icon = "ti-facebook"
+URL = "#"
+
+[[params.social]]
+icon = "ti-linkedin"
+URL = "www.linkedin.com/in/anastasiya-anisimova"

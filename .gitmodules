@@ -1,3 +1,4 @@
 [submodule "themes/kross-hugo"]
 	path = themes/kross-hugo
-	url = git@github.com:themefisher/kross-hugo.git
+	url = https://github.com/swchck/kross-hugo.git
+	branch = nasanis

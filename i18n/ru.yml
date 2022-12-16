@@ -1,0 +1,45 @@
+banner:
+  title: "Привет, меня зовут <br> Настя и я <br> UX-Researcher"
+
+# work process TODO: Complete
+work_process:
+  title: "Work Process"
+  item:
+    - title: "План Исследования"
+      icon: "images/icons/plan.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - title: "Исследовательская деятельность"
+      icon: "images/icons/design.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - title: "Результат"
+      icon: "images/icons/print.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+read-more: Читать дальше
+published-on: Опубликовано
+find-on-map: Найти меня на картах
+follow-me: Follow me on Social
+contact:
+  info: Контактная информация
+  form:
+    name: Форма для связи
+    name-placeholder: Имя
+    email-placeholder: Email адрес
+    message-placeholder: Введите свое сообщение здесь
+    send-button: Отправить!
+
+footer:
+  phone: Телефон
+  address: Адрес
+
+cookies:
+  text: Этот сайт использует куки. Для продолжения работы на сайте нужно согласиться с их использованием.
+  button: Я согласен
+
+portfolio:
+  view-button: Подробнее
+  project-link: Ссылка
+  categories:
+    name: Категории

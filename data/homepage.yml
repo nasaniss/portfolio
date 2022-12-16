@@ -1,7 +1,3 @@
-# banner
-banner:
-  title : "Привет, меня зовут <br> Настя и я <br> UX-Researcher"
-
 # about
 about:
   enable : true
