@@ -1,19 +1,23 @@
 # work process TODO: Complete
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Методы исследований"
   item:
-  - title : "Research and Plan"
+  - title : "UX-тесты"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : ""
     
-  - title : "Design and Develop"
+  - title : "Глубинные интервью"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : ""
     
-  - title : "Deliver"
+  - title : "Количественные опросы"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : ""
+
+  - title : "Тестирование макетов"
+    icon : "images/icons/print.png"
+    content : ""
 
 
 # team

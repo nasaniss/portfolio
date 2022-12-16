@@ -1,7 +1,7 @@
 # about
 about:
   enable : true
-  content : "Если вы оказались на этой страничке, значит вас заинтересовало данное портфолио. Меня зовут Настя, я исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее. Помимо хардов и софтов использую в работе принцип «нормально делай, нормально будет»"
+  content : "Исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее.  Помимо хардов и софтов использую в работе принцип «нормально делай, нормально будет»"
   button:
     enable : true
     label : "Узнать больше"
@@ -10,35 +10,39 @@ about:
 # skill
 skill:
   enable : true
-  title : "Методики с которыми я работаю"
+  title : "С какими методиками я работаю?"
   item:
     - title : "Customer development"
-      progress : "90%"
+      progress : "100%"
       color : "#fdb157"
       
-    - title : "Moderated UT"
-      progress : "60%"
+    - title : "Moderated usability testing"
+      progress : "100%"
       color : "#9473e6"
       
     - title : "Clickstream analysis"
-      progress : "80%"
+      progress : "100%"
       color : "#bdecf6"
       
     - title : "A/B testing"
-      progress : "70%"
+      progress : "100%"
       color : "#ffbcaa"
     
     - title : "LJM/CJM"
-      progress : "50%"
+      progress : "100%"
       color : "#ffcaaa"
 
     - title : "Hallway testing"
-      progress : "30%"
+      progress : "100%"
       color : "#ffadaa"
 
     - title : "JTBD"
       progress : "100%"
       color : "#fddcaa"
+
+    - title : "Customer Feedback"
+      progress : "100%"
+      color : "#ffbcaa"
 
 # experience
 experience:
@@ -59,7 +63,7 @@ experience:
       duration : "Nov 2020 - Feb 2022"
       
     - logo : "images/experience/icon-1.png"
-      title : "Младший исследователь"
+      title : "Младший исследователь-аналитик"
       company : "NGO Stellit"
       url: "https://example.com"
       duration : "Sep 2020 - Feb 2021"
