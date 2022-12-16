@@ -2,6 +2,10 @@
 title: "NGO Stellit"
 date: 2019-05-12T12:14:34+06:00
 image: "images/blog/post-5.jpg"
+position: "Младший исследователь"
+company_img: "/portfolio/images/experience/icon-1.png"
+duration: "Sep 2020 - Feb 2021"
+company_url: "https://example.com"
 description: "This is meta description."
 draft: false
 ---

@@ -2,6 +2,10 @@
 title: "АНО «Диалог Регионы»"
 date: 2019-05-12T12:14:34+06:00
 image: "images/blog/post-5.jpg"
+position: "Ведущий специалист по исследованиям"
+company_img: "/portfolio/images/experience/icon-1.png"
+duration: "Nov 2020 - Feb 2022"
+company_url: "https://dialog.info/"
 description: "This is meta description."
 draft: false
 ---

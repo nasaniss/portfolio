@@ -43,3 +43,10 @@ portfolio:
   project-link: Ссылка
   categories:
     name: Категории
+
+expirience:
+  title: Опыт Работы
+  read-more: Подробнее
+
+education:
+  title: "Образование"
