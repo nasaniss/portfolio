@@ -1,6 +1,8 @@
+banner:
+  title : "Hello, I'm <br> Nasya <br> UX-Researcher"
+
 # work process TODO: Complete
 work_process:
-  enable : true
   title : "Work Process"
   item:
   - title : "Research and Plan"
@@ -15,27 +17,29 @@ work_process:
     icon : "images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
+read-more: Read More
+published-on: Published on
+find-on-map: Find me on Google Map
+follow-me: Follow me on Social
+contact:
+  info: Contact Info
+  form:
+    name: Contact Form
+    name-placeholder: Full Name
+    email-placeholder: Email Address
+    message-placeholder: Type Message Here
+    send-button: Send
 
-# team
-team:
-  enable: false
-  title : "My Team"
-  team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-      
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+footer:
+  phone: Phone
+  address: Address
 
+cookies:
+  text: This site uses cookies. By continuing to use this website, you agree to their use.
+  button: I Accept
 
-# client logo slider
-clients_logo_slider:
-  enable : false
-  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+portfolio:
+  view-button: View project
+  project-link: Project Link
+  categories:
+    name: Categories
