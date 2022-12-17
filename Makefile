@@ -10,6 +10,8 @@ build:
 
 clean:
 	rm -rf public
+	rm -rf resources
+	rm .hugo_build.lock
 
 server:
 	python3 -m http.server -d public

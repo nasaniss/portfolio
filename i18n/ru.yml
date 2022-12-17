@@ -17,12 +17,14 @@ work_process:
       icon: "images/icons/print.png"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-read-more: Читать дальше
-published-on: Опубликовано
+post:
+  read-more: Читать дальше
+single-post:
+  published-on: Опубликовано
 find-on-map: Найти меня на картах
-follow-me: Follow me on Social
 contact:
   info: Контактная информация
+  follow-me: Follow me on Social
   form:
     name: Форма для связи
     name-placeholder: Имя
@@ -40,6 +42,23 @@ cookies:
 
 portfolio:
   view-button: Подробнее
+  date: Дата
+  client: Клиент
   project-link: Ссылка
   categories:
     name: Категории
+  link:
+    name: "Клик!"
+
+expirience:
+  title: Опыт Работы
+  read-more: Подробнее
+
+education:
+  title: "Образование"
+
+home:
+  blog:
+    title: "Блог"
+  portfolio:
+    title: "Портфолио"
