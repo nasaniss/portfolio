@@ -21,18 +21,6 @@ email = "aanjustbusiness@gmail.com"
 address = "125/A, CA Commercial Area, California, USA"
 
 ########################
-# SECTIONS
-########################
-[params.work_process]
-enable = true
-
-[params.team]
-enable = false
-
-[params.clients_logo_slider]
-enable = false
-
-########################
 # COOKIES
 ########################
 [params.cookies]
@@ -92,3 +80,6 @@ link = "plugins/shuffle/shuffle.min.js"
 
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
+
+[[params.plugins.js]]
+link = "fontawesome-5/all-5.15.4.js"

@@ -1,7 +1,7 @@
 # about
 about:
-  enable : true
-  content : "Исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее. Работаю по принципу «нормально делай, нормально будет»"
+  enable: true
+  content: "Исследую соприкосновение людей и продуктов, созданных для людей. UX-researcher, верящий в светлое цифровое будущее. Работаю по принципу «нормально делай, нормально будет»"
   button:
     enable: true
     label: "Узнать больше"
@@ -9,44 +9,40 @@ about:
 
 # skill
 skill:
-  enable : true
-  title : "С какими методиками работала?"
+  enable: true
+  title: "С какими методиками работала?"
   item:
-    - title : "Customer development"
-      progress : "100%"
-      color : "#fdb157"
-      
-    - title : "Moderated usability testing"
-      progress : "100%"
-      color : "#bdaae3"
-      
-    - title : "Clickstream analysis"
-      progress : "100%"
-      color : "#bdecf6"
-      
-    - title : "A/B testing"
-      progress : "100%"
-      color : "#ffbcaa"
-    
-    - title : "LJM/CJM"
-      progress : "100%"
-      color : "#ffcaaa"
+    - title: "Customer development"
+      progress: "100%"
+      color: "#fdb157"
 
-    - title : "Hallway testing"
-      progress : "100%"
-      color : "#ffadaa"
+    - title: "Moderated usability testing"
+      progress: "100%"
+      color: "#bdaae3"
 
-    - title : "JTBD"
-      progress : "100%"
-      color : "#fddcaa"
+    - title: "Clickstream analysis"
+      progress: "100%"
+      color: "#bdecf6"
 
-    - title : "Customer Feedback"
-      progress : "100%"
-      color : "#c1d9b4"
+    - title: "A/B testing"
+      progress: "100%"
+      color: "#ffbcaa"
 
-    - title : "Customer Feedback"
-      progress : "100%"
-      color : "#c1d9b4"
+    - title: "LJM/CJM"
+      progress: "100%"
+      color: "#ffcaaa"
+
+    - title: "Hallway testing"
+      progress: "100%"
+      color: "#ffadaa"
+
+    - title: "JTBD"
+      progress: "100%"
+      color: "#fddcaa"
+
+    - title: "Customer Feedback"
+      progress: "100%"
+      color: "#c1d9b4"
 
 # experience
 experience:
@@ -64,11 +60,11 @@ experience:
       title: "Ведущий специалист по исследованиям"
       company: "АНО «Диалог Регионы»"
       url: "https://dialog.info/"
-      duration : "Nov 2020 - Feb 2022"
-      
-    - logo : "images/experience/icon-1.png"
-      title : "Младший исследователь-аналитик"
-      company : "NGO Stellit"
+      duration: "Nov 2020 - Feb 2022"
+
+    - logo: "images/experience/icon-1.png"
+      title: "Младший исследователь-аналитик"
+      company: "NGO Stellit"
       url: "https://example.com"
       duration: "Sep 2020 - Feb 2021"
 
