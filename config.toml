@@ -1,4 +1,3 @@
-# Base Params
 baseURL = "https://nasaniss.github.io/portfolio"
 DefaultContentLanguage = "ru"
 languageCode = "ru-RU"

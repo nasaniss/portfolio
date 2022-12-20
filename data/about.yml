@@ -1,45 +1,79 @@
 # work process TODO: Complete
-work_process:
-  enable : true
-  title : "Методы исследований"
+about:
+  enable: true
+
+# experience
+experience:
+  enable: true
+  title: "Опыт Работы"
   item:
-  - title : "UX-тесты"
-    icon : "images/icons/plan.png"
-    content : ""
-    
-  - title : "Глубинные интервью"
-    icon : "images/icons/design.png"
-    content : ""
-    
-  - title : "Количественные опросы"
-    icon : "images/icons/print.png"
-    content : ""
+    - logo: "images/experience/icon-1.png"
+      title: "UX-Researcher"
+      company: "Center-Game"
+      url: "https://center-game.com/"
+      duration: "Feb 2022 - present"
+      job: "http://localhost:1313/portfolio/blog/post-1/"
 
-  - title : "Тестирование макетов"
-    icon : "images/icons/print.png"
-    content : ""
+    - logo: "images/experience/icon-2.png"
+      title: "Ведущий специалист по исследованиям"
+      company: "АНО «Диалог Регионы»"
+      url: "https://dialog.info/"
+      duration: "Nov 2020 - Feb 2022"
 
+    - logo: "images/experience/icon-1.png"
+      title: "Младший исследователь-аналитик"
+      company: "NGO Stellit"
+      url: "https://example.com"
+      duration: "Sep 2020 - Feb 2021"
+
+    - logo: "images/experience/icon-1.png"
+      title: "Интервьюер-транскрайбер"
+      company: "Advantage Group"
+      url: "https://www.advantagegroup.com"
+      duration: "Mar 2020 - Aug 2020"
+
+# education
+education:
+  enable: true
+  title: "Образование"
+  item:
+    - title: "Магистр Социологии"
+      track: "Кафедра прикладной и отраслевой социологии"
+      year: "2018 - 2020"
+      academy: "Санкт-Петербургский государственный университет"
+      url: "https://soc.spbu.ru/fakultet/kafedry.html"
+
+    - title: "Бакалавр Социологии"
+      year: "2014 - 2018"
+      track: "Кафедра социологии молодежи и молодежной политики"
+      academy: "Санкт-Петербургский государственный университет"
+      url: "https://soc.spbu.ru/fakultet/kafedry.html"
+
+    - title: "Master of Sociology"
+      year: "2020"
+      track: "Exchange Student"
+      academy: "Charles University in Prague"
+      url: "https://cuni.cz/uken-1.html"
 
 # team
 team:
   enable: false
-  title : "My Team"
+  title: "My Team"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-      
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+    - title: "Jack Schenziwe"
+      image: "images/team/member-1.png"
+      designation: "Project Manager"
 
+    - title: "Julias Carlie"
+      image: "images/team/member-2.png"
+      designation: "Web Developer"
+
+    - title: "John Doe"
+      image: "images/team/member-3.png"
+      designation: "Designer"
 
 # client logo slider
 clients_logo_slider:
-  enable : false
-  title : "My Clients"
+  enable: false
+  title: "My Clients"
   # clients logo comes from 'data/homepage.yml' file
