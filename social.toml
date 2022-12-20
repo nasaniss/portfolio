@@ -3,8 +3,10 @@
 ########################
 [[params.social]]
 icon = "ti-facebook"
+name = "Facebook"
 URL = "#"
 
 [[params.social]]
 icon = "ti-linkedin"
+name = "LinkedIn"
 URL = "www.linkedin.com/in/anastasiya-anisimova"
