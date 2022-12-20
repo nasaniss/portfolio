@@ -7,119 +7,78 @@ about:
     label: "Узнать больше"
     URL: "about"
 
-# skill
-skill:
-  enable: true
-  title: "С какими методиками работала?"
-  item:
-    - title: "Customer development"
-      progress: "100%"
-      color: "#fdb157"
-
-    - title: "Moderated usability testing"
-      progress: "100%"
-      color: "#bdaae3"
-
-    - title: "Clickstream analysis"
-      progress: "100%"
-      color: "#bdecf6"
-
-    - title: "A/B testing"
-      progress: "100%"
-      color: "#ffbcaa"
-
-    - title: "LJM/CJM"
-      progress: "100%"
-      color: "#ffcaaa"
-
-    - title: "Hallway testing"
-      progress: "100%"
-      color: "#ffadaa"
-
-    - title: "JTBD"
-      progress: "100%"
-      color: "#fddcaa"
-
-    - title: "Customer Feedback"
-      progress: "100%"
-      color: "#c1d9b4"
-
-# experience
-experience:
-  enable: true
-  title: "Опыт Работы"
-  item:
-    - logo: "images/experience/icon-1.png"
-      title: "UX-Researcher"
-      company: "Center-Game"
-      url: "https://center-game.com/"
-      duration: "Feb 2022 - present"
-      job: "http://localhost:1313/portfolio/blog/post-1/"
-
-    - logo: "images/experience/icon-2.png"
-      title: "Ведущий специалист по исследованиям"
-      company: "АНО «Диалог Регионы»"
-      url: "https://dialog.info/"
-      duration: "Nov 2020 - Feb 2022"
-
-    - logo: "images/experience/icon-1.png"
-      title: "Младший исследователь-аналитик"
-      company: "NGO Stellit"
-      url: "https://example.com"
-      duration: "Sep 2020 - Feb 2021"
-
-    - logo: "images/experience/icon-1.png"
-      title: "Интервьюер-транскрайбер"
-      company: "Advantage Group"
-      url: "https://www.advantagegroup.com"
-      duration: "Mar 2020 - Aug 2020"
-
-# education
-education:
-  enable: true
-  title: "Образование"
-  item:
-    - title: "Магистр Социологии"
-      track: "Кафедра прикладной и отраслевой социологии"
-      year: "2018 - 2020"
-      academy: "Санкт-Петербургский государственный университет"
-      url: "https://soc.spbu.ru/fakultet/kafedry.html"
-
-    - title: "Бакалавр Социологии"
-      year: "2014 - 2018"
-      track: "Кафедра социологии молодежи и молодежной политики"
-      academy: "Санкт-Петербургский государственный университет"
-      url: "https://soc.spbu.ru/fakultet/kafedry.html"
-
-    - title: "Master of Sociology"
-      year: "2020"
-      track: "Exchange Student"
-      academy: "Charles University in Prague"
-      url: "https://cuni.cz/uken-1.html"
-
 # service
 service:
   enable: true
   title: "Услуги"
   item:
-    - title: "UI Design"
+    - title: "Глубинные интервью"
       icon: "ti-palette"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content: "Тестирование макетов (возможно)"
       highlighted: false
 
-    - title: "UX Design"
+    - title: "UX-тесты"
       icon: "ti-vector"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content: "Юзабилити тестирование (возможно)"
       highlighted: true
 
-    - title: "Interaction Design"
+    - title: "Количественные опросы"
       icon: "ti-panel"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted: false
 
+work_process:
+  enable: true
+  title: "Методы исследований"
+  item:
+    - title: "Customer development"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "Moderated usability testing"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "Clickstream analysis"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "A/B testing"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "LJM/CJM"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "Hallway testing"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "JTBD"
+      icon: "images/icons/plan.png"
+      content: ""
+
+    - title: "Customer Feedback"
+      icon: "images/icons/plan.png"
+      content: ""
+
+# skill
+skill:
+  enable: true
+  title: "С какими методиками работала?"
+  item:
+    - title: "Figma"
+      progress: "100%"
+      color: "#fdb157"
+
+    - title: "SPSS"
+      progress: "100%"
+      color: "#fdb157"
+
 # portfolio
 portfolio:
-  enable: true
+  enable: false
   title: "Portfolio"
   item_show: 3
   # portfolio item comes from 'data/portfolio.yml' item.
@@ -146,6 +105,6 @@ testimonial:
 
 # blog
 blog:
-  enable: true
+  enable: false
   title: "Blogs"
   # blog post comes from "content/blog" folder
