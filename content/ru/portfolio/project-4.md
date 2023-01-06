@@ -2,7 +2,7 @@
 title: "Аудит landing page
 “LERA CMS”"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
+image: "images/portfolio/LERA.webp"
 client: "Center-Game"
 project_url : " "
 categories: ["Landing pages"]

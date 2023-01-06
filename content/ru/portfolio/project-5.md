@@ -1,7 +1,7 @@
 ---
 title: "Серия case-интервью для разработки цифрового геймифицированного самодиагностического кейс-теста"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
+image: "images/portfolio/KK.webp"
 client: "РКК"
 project_url : " "
 categories: ["Диагностики"]

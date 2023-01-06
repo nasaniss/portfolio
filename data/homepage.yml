@@ -14,17 +14,17 @@ service:
   item:
     - title: "Глубинные интервью"
       icon: "ti-palette"
-      content: "Тестирование макетов (возможно)"
+      content: 
       highlighted: false
 
     - title: "UX-тесты"
       icon: "ti-vector"
-      content: "Юзабилити тестирование (возможно)"
+      content: 
       highlighted: true
 
     - title: "Количественные опросы"
       icon: "ti-panel"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content: 
       highlighted: false
 
 work_process:
@@ -32,48 +32,72 @@ work_process:
   title: "Методы исследований"
   item:
     - title: "Customer development"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "Moderated usability testing"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "Clickstream analysis"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "A/B testing"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "LJM/CJM"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "Hallway testing"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "JTBD"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
     - title: "Customer Feedback"
-      icon: "images/icons/plan.png"
+      icon: "images/icons/methods.webp"
       content: ""
 
 # skill
 skill:
   enable: true
-  title: "С какими методиками работала?"
+  title: "Инструменты"
   item:
     - title: "Figma"
       progress: "100%"
       color: "#fdb157"
 
+    - title: "MIRO"
+      progress: "100%"
+      color: "#fdb157"
+
+    - title: "Notion"
+      progress: "100%"
+      color: "#fdb157"
+
+    - title: "Microsoft Excel"
+      progress: "100%"
+      color: "#fdb157"
+
+    - title: "Microsoft PowerPoint"
+      progress: "100%"
+      color: "#fdb157"
+
     - title: "SPSS"
       progress: "100%"
+      color: "#fdb157"
+
+    - title: "R"
+      progress: "50%"
+      color: "#fdb157"
+
+    - title: "Python"
+      progress: "50%"
       color: "#fdb157"
 
 # portfolio

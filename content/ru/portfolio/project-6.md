@@ -1,7 +1,7 @@
 ---
 title: "Игровое UX-исследование для проекта “Урок Цифры”"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
+image: "images/portfolio/Urok_Tsyfry.webp"
 client: "БФ Сбербанка “Вклад в будущее”"
 project_url : "https://xn--h1adlhdnlo2c.xn--p1ai/lessons/ai-in-startups/parents"
 categories: ["Игры"]

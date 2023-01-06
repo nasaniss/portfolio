@@ -1,7 +1,7 @@
 ---
 title: "UX-тестирование образовательной платформы Dior"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
+image: "images/portfolio/DIOR.webp"
 client: "DIOR"
 project_url : "https://www.figma.com/file/b7AYPDQ9n3yEDwLk7cZCRx/Untitled?node-id=0%3A1&)t=jgNFy8WQjfF3F9L8-0"
 categories: ["Платформы"]
